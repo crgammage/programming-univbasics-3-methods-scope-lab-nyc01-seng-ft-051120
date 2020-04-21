@@ -14,4 +14,5 @@ def link
 end
 
 def all_phrases(all_phrases)
-  puts phrase
+  puts "#{all_phrases}"
+end
